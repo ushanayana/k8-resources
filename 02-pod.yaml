@@ -4,7 +4,7 @@ metadata:
   name: nginx
 spec: 
   containers:
-  - nmae: nginx
+  - name: nginx
     image: nginx 
 
 
