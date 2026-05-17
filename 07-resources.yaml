@@ -8,7 +8,7 @@ spec:
     image: nginx
     resources:
       requests:
-        cpu: "100Mi"
+        cpu: "100m"
         memory: "128Mi"
       # limitsshouldbe atleast or more than requests i.e hard limit
       limits:
