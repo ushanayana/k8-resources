@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: configmap
+metadata: 
+  name: daws78s
+data:
+  course: "Devops with AWS"
+  trainer: "Sivakumar"
+  github: "https://github.com/ushanayana/k8-resources.git"
