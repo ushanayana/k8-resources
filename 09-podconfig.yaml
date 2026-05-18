@@ -1,6 +1,5 @@
-kind: service
 apiVersion: v1
-
+kind: service
 metadata:
   name: pod-config
 spec:
